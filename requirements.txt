@@ -1,0 +1,7 @@
+marimo
+scikit-learn
+polars
+sentence-transformers
+huggingface_hub[hf_xet]
+umap-learn
+altair
